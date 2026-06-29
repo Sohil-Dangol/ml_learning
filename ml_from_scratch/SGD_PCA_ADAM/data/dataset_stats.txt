@@ -1,0 +1,10 @@
+n_train=2500
+n_test=1000
+n_features=60
+target_mean_train=-0.0150
+target_std_train=16.5079
+target_mean_test=0.3666
+target_std_test=15.8784
+signal_std_full=16.3309
+noise_std_full=0.7046
+signal_to_noise_var_ratio=537.1731
